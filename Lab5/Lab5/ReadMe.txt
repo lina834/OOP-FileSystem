@@ -52,16 +52,6 @@ Author: Christie Chen, christiec@wustl.edu
         Lina Chang, n.chang@wustl.edu
         Jiwoo Seo, jiwooseo@wustl.edu
 
-Work Distribution
-        1. ls		- all together
-        2. rm 		- JIWOO 
-        3. password - CHRISTIE 
-        4. cat  	- CHRISTIE 
-        5. ds       - JIWOO 
-        6. copy 	- JIWOO 
-        7. macro    - LINA 
-        8. rn       - LINA 
-        10. extra credit - CHRISTIE
 
 Additional information
      Because we have a second Macrocommand as our extra credit, we added an info() method in 
